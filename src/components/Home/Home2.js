@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and React. </b>
+                <b className="purple"> Java, Javascript and MERN Full Stack Developer. </b>
               </i>
               <br />
               <br />
@@ -88,7 +88,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/divyansh-yadav"
+                  href="https://www.linkedin.com/in/divyansh-yadav-715358335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
