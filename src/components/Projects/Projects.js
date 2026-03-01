@@ -4,6 +4,9 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
+import leaf from "../../Assets/Projects/leaf.png";
+import suicide from "../../Assets/Projects/suicide.png";
+
 
 
 
@@ -46,7 +49,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={suicide}
               isBlog={false}
               title="Smart Health Assistance"
               description="Dedicated to streamlining the healthcare experience by connecting people with the right resources, clear options, and reliable support when they need it most."
@@ -57,7 +60,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={leaf}
               isBlog={false}
               title="Farmer App"
               description="Building an e-commerce architecture to connect farmers directly with buyers (eliminating middlemen) or allowing them to purchase seeds and fertilizers safely."
