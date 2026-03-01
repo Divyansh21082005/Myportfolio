@@ -49,7 +49,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Smart Health Assistance"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Dedicated to streamlining the healthcare experience by connecting people with the right resources, clear options, and reliable support when they need it most."
               ghLink=""
               demoLink=""
             />
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Farmer App"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Building an e-commerce architecture to connect farmers directly with buyers (eliminating middlemen) or allowing them to purchase seeds and fertilizers safely."
               ghLink=""
                demoLink=""
             />
